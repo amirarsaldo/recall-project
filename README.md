@@ -44,3 +44,22 @@ Recall is a Web3 community project that rewards active participants through an a
 2. Connect your wallet and socials on Galxe
 3. Engage on Twitter and other platforms
 4. Check the website regularly and collect Fragments
+## Tasks Breakdown
+
+### 1. Discord Community Engagement
+- Join the official [Recall Discord server]
+- Chat regularly to increase your XP level using bots like Tatsu or similar
+- Reach at least Level 30 to unlock the highest tier role
+
+#### Discord Roles and Leveling:
+| Role Name     | Requirement                              |
+|---------------|-------------------------------------------|
+| Legacy    | Awarded to the first 110,000 users who joined the Discord server |
+| Baby Bot  | Reach Level 3                         |
+| Big Bot   | Reach Level 10                        |
+| Supreme Bot | Reach Level 30                      |
+| OG        | No longer available (ended)              |
+| Genesis   | Earned by participating in Discord events and meme creation contests. Must be selected by moderators. |
+
+- Engage in discussions, use the /rank command to track your level, and aim for higher-tier roles.
+- Roles might unlock further eligibility or benefits in the airdrop phase
